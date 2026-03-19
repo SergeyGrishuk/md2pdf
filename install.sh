@@ -34,5 +34,5 @@ if [[ ":$PATH:" != *":$BIN_DIR:"* ]]; then
     echo ""
 fi
 
-echo "✓ md2pdf installed successfully!"
+echo "  md2pdf installed successfully!"
 echo "  Run 'md2pdf --help' to get started."

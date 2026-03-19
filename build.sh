@@ -44,7 +44,7 @@ rm -f _entry.py
 deactivate
 
 echo ""
-echo "✓ Build complete!"
+echo "  Build complete!"
 echo "  Executable: $SCRIPT_DIR/dist/md2pdf"
 echo ""
 echo "  To install, run: ./install.sh"
